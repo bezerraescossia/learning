@@ -2,8 +2,7 @@
 Created on Fri Ago 16 15:31:00 2024
 @author: bzesc
 
-Requirements: 
-Flask==0.12.2
+Requirements: Flask==0.12.2
 '''
 
 # importing the libraries
